@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 会话命名整理"
+  short_description: "按具体代码项目与工作结果统一整理 Codex 会话标题"
+  default_prompt: "使用 $codex-session-namer 整理当前或指定 Codex 会话的标题。"
