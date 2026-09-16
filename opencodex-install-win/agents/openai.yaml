@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCodex Windows Installer"
+  short_description: "Install and configure OpenCodex on Windows"
+  default_prompt: "Use $opencodex-install-win to install OpenCodex on this Windows computer with background startup and an optional local proxy."
